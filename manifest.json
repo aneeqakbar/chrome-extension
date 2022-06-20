@@ -1,0 +1,11 @@
+{
+    "name": "Aneeq's Extension",
+    "version": "1.0.0",
+    "description": "Description",
+    "manifest_version": 3,
+    "author": "Aneeq Akbar",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Aneeq's Extension"
+    }
+}
